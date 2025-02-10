@@ -1,0 +1,8 @@
+Compiling 1 files with $SOLC_VERSION
+Solc $SOLC_VERSION finished in $TIME
+Compiler run successful!
+Script ran successfully.
+Gas used: 22815
+
+== Logs ==
+  script ran
